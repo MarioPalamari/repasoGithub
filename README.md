@@ -36,4 +36,4 @@ Mi nombre es *Mario* y estoy en la 301
 ```
 [Enlace a Wikipedia](https://es.wikipedia.org "Haciendo click se te dirige a wikipedia")
 
-![Stickman] "[C:\pulamea.webp](https://static.wikia.nocookie.net/mamarre-estudios-espanol/images/1/1e/Stick_neut.png/revision/latest?cb=20201223041822&path-prefix=es)"
+![Stickman](https://static.wikia.nocookie.net/mamarre-estudios-espanol/images/1/1e/Stick_neut.png/revision/latest?cb=20201223041822&path-prefix=es)
