@@ -34,6 +34,12 @@ Mi nombre es *Mario* y estoy en la 301
    </head>
 </html>
 ```
-[Enlace a Wikipedia](https://es.wikipedia.org "Haciendo click se te dirige a wikipedia")
+[Enlace a Wikipedia](https://es.wikipedia.org/wiki/Monigote_(dibujo) "Haciendo click se te dirige a wikipedia")
 
 ![Stickman](https://static.wikia.nocookie.net/mamarre-estudios-espanol/images/1/1e/Stick_neut.png/revision/latest?cb=20201223041822&path-prefix=es)
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| ----------- |:-----------:|-------------|
+| Item1 | Boligrafos | 20€ |
+| Item2 | Grapadoras | 27000€|
+| Item3 | Tus muertos | Gratis|
