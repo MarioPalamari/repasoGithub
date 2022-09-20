@@ -36,3 +36,4 @@ Mi nombre es *Mario* y estoy en la 301
 ```
 [Enlace a Wikipedia](https://es.wikipedia.org "Haciendo click se te dirige a wikipedia")
 
+![Stickman] "C:\pulamea.webp"
